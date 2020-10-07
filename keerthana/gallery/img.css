@@ -1,0 +1,17 @@
+body{
+    padding-top: 20px;
+    background-color: mediumspringgreen;
+}
+.jumbotron{
+    background-color: cadetblue;
+}
+.jumbotron:hover{
+    background-color: mediumorchid;
+}
+h1:hover{
+    color: ivory;
+}
+img{
+    height: 100px;
+    width: 500px;
+}
